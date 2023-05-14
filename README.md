@@ -8,7 +8,7 @@ Please don't hesitate to contact me if you have any questions or would like to k
 My Skills
 
 <ul>
-    <li>Full Stack Development (Java/JEE, Spring Boot, PHP, Laravel JavaScript, HTML, CSS, Node.js, ReactJS...)</li>
+    <li>Full Stack Development (Angular, NestJS, Java/JEE, Spring Boot, PHP, Laravel JavaScript, HTML, CSS, Node.js, ReactJS...)</li>
     <li>Machine Learning (Numpy, Pandas, Scikit-Learn, TensorFlow)</li>
     <li>Database Technologies (SQL, NoSQL)</li>
 </ul>
